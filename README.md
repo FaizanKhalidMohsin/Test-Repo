@@ -9,3 +9,6 @@ YES AND NOT
 
 ##This is that
 ### NO man so fat
+* Blue
+* Green
+* He, a shattered screen
